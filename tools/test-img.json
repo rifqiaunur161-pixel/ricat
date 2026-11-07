@@ -1,0 +1,26 @@
+[
+  {
+    "command": "node.create",
+    "params": {
+      "type": "frame",
+      "name": "Test Frame",
+      "x": 0,
+      "y": 0,
+      "width": 800,
+      "height": 600,
+      "props": { "fill": "#080C14" }
+    }
+  },
+  {
+    "command": "image.place",
+    "params": {
+      "path": "c:/Users/MyBook Hype AMD/OneDrive/Desktop/ricat/design/orb-circle.png",
+      "parent": { "$step": 0 },
+      "x": 300,
+      "y": 100,
+      "width": 140,
+      "height": 140
+    }
+  }
+]
+

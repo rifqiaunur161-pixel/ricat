@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "artcraft-figcraft": {
+      "command": "c:/Users/MyBook Hype AMD/OneDrive/Desktop/ricat/tools/artcraft-figcraft/figcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-write-root",
+        "c:/Users/MyBook Hype AMD/OneDrive/Desktop/ricat"
+      ]
+    }
+  }
+}

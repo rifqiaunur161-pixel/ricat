@@ -1,0 +1,6 @@
+{
+  "name": "figcraft",
+  "description": "AI-powered Figma plugin and MCP bridge for UI creation, design tokens, linting, and quality review.",
+  "repository": "https://github.com/DivikWu/figcraft"
+}
+
